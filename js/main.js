@@ -105,18 +105,17 @@
 
 		$('a:not([class="external"])').click(function(event){
 			var section = $(this).data('nav-section'),
-				navbar = $('#navbar');
+                navbar = $('#navbar');            
+
 		    $('html, body').animate({
 		        scrollTop: $('[data-section="' + section + '"]').offset().top
-		    }, 500);
-
-		    if ( navbar.is(':visible')) {
-		    	navbar.removeClass('in');
-		    	navbar.attr('aria-expanded', 'false');
-		    	$('.js-qbootstrap-nav-toggle').removeClass('active');
-		    }
-
-		    event.preventDefault();
+		    }, 500);		    
+            if (navbar.is(':visible')) {
+                navbar.removeClass('in');
+                navbar.attr('aria-expanded', 'false');
+                $('.js-qbootstrap-nav-toggle').removeClass('active');
+            }
+            event.preventDefault();
 		    return false;
 		});
 
