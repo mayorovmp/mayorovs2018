@@ -299,7 +299,7 @@
 		sliderMain();
 		clickMenu();
 		parallax();
-		// windowScroll();
+		windowScroll();
 		navigationSection();
 		contentWayPoint();
 		inlineSVG();
