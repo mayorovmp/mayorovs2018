@@ -1,8 +1,6 @@
 
 TITLE: 
-Wedding Free HTML5 Bootstrap Template for Wedding Website
-AUTHOR:
-DESIGNED & DEVELOPED by QBOOTSTRAP.COM
+mayorovs2018
 
 Website: 		http://qbootstrap.com/
 Twitter: 		http://twitter.com/Q_bootstrap
