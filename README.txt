@@ -2,10 +2,7 @@
 TITLE: 
 mayorovs2018
 
-Website: 		http://qbootstrap.com/
-Twitter: 		http://twitter.com/Q_bootstrap
-Facebook: 		https://www.facebook.com/Qbootstrap
-
+Website: 		http://mayorovs2018.ru
 CREDITS:
 
 Bootstrap
