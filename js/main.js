@@ -281,7 +281,7 @@
 		// If the count down is finished, write some text 
 		if (distance < 0) {
 		 clearInterval(x);
-         document.getElementById("expiredTime").innerHTML = "Свадьба состоялась!";
+         document.getElementById("expiredTime").innerHTML = "<h2>Свадьба состоялась!</h2>";
 		}
 		}, 1000);	
 	
